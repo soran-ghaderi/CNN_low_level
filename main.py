@@ -5,7 +5,6 @@ from nn.layers import *
 
 
 def main():
-    global dA
     plt.rcParams["figure.figsize"] = (5.0, 4.0)
     plt.rcParams["image.interpolation"] = "nearest"
     plt.rcParams["image.cmap"] = "Accent"
