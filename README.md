@@ -19,7 +19,7 @@
   
   | Number  | function           |
   | ------------- | -------------            |
-  |       1.     |  `zero_pad()`             |
+  |       1.     | `zero_pad()`             |
   |       2.     | `conv_single_step()`        |
   |       3.     | `distribute_value()`  |
   |       4.     | `create_mask_from_window()`                |
@@ -49,10 +49,10 @@
   ```
   
   ### Future work
-  :ballot_box_with_check:`Add compute cost function`<br/>
-  :ballot_box_with_check:`Modulate the functions`<br/>
-  :ballot_box_with_check:`Add a final model`<br/>
-  :ballot_box_with_check:`Add unittest for functions`<br/>
-  :ballot_box_with_check:`Vectorize`<br/>
+  - [ ] `Add compute cost function`<br/>
+  - [X] `Modulate the functions`<br/>
+  - [ ] `Add a final model`<br/>
+  - [ ] `Add unittest for functions`<br/>
+  - [ ] `Vectorize`<br/>
   
   > More documentation will be uploaded later
