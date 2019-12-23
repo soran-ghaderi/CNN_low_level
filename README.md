@@ -55,4 +55,4 @@
   - [ ] `Add unittest for functions`<br/>
   - [ ] `Vectorize`<br/>
   
-  > More documentation will be uploaded later
+  > More detailed documentation will be uploaded later
